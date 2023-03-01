@@ -127,7 +127,7 @@ banner() {
 		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by shahnshah786(md shahnshah) github id :- http://github.com/shahanshah786/   instagram id :- https://www.instagram.com/its_shahanshah_ ${WHITE}
 	EOF
 }
 
