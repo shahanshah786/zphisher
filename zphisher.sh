@@ -129,7 +129,7 @@ banner() {
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by shahnshah786(md shahnshah)
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} github id :- http://github.com/shahanshah786/   
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} instagram id :- https://www.instagram.com/its_shahanshah_ 
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} instagram id :- https://www.instagram.com/shahnshah_root.kali 
 		${WHITE}
 	EOF
 }
